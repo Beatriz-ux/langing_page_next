@@ -1,1 +1,1 @@
-# langing_page_next
+# Pagina de apresentação usando next
